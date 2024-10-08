@@ -14,17 +14,13 @@ Now proficient in **Docker, Kubernetes, GCP, AWS, Helm, Azure, Security**, and o
 
 ### ✨ Let’s connect on this exciting journey!
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/mokhlesur-mahin/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0077B5; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; display: flex; align-items: center;">
-      <img src="https://img.icons8.com/color/16/000000/linkedin-circled.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;"/> LinkedIn
-    </button>
+    <span style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px;">LinkedIn</span>
   </a>
 
   <a href="https://mahinops.github.io/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #ff5722; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; display: flex; align-items: center;">
-      <img src="https://img.icons8.com/color/16/000000/blog.png" alt="Blog" style="vertical-align: middle; margin-right: 5px;"/> Blog
-    </button>
+    <span style="background-color: #ff5722; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px;">Blog</span>
   </a>
 </div>
 
