@@ -3,7 +3,6 @@
 </div>
 
 ### 👤 Mokhlesur Mahin
-
 Evolving from a Python/Golang Software Engineer to a Platform Engineer with over 4 years of experience, I've honed skills in microservices, monolith applications, and ERP systems. 
 
 Now proficient in **Docker, Kubernetes, GCP, AWS, Helm, Azure, Security**, and other key DevOps tools, I am eager to unite development and operations for enhanced reliability and scalability. As an open-source enthusiast, I thrive on collaboration and sharing knowledge to build better solutions together.
@@ -13,15 +12,15 @@ Now proficient in **Docker, Kubernetes, GCP, AWS, Helm, Azure, Security**, and o
 ---
 
 ### ✨ Let’s connect on this exciting journey!
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/mokhlesur-mahin/" target="_blank" style="text-decoration: none;">
-    <span style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px;">LinkedIn</span>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mokhlesur-mahin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://mahinops.github.io/" target="_blank" style="text-decoration: none;">
-    <span style="background-color: #ff5722; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px;">Blog</span>
+  <a href="https://mahinops.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Blog Badge"/>
   </a>
+  
 </div>
 
 ---
