@@ -30,26 +30,35 @@ Now proficient in **Docker, Kubernetes, GCP, AWS, Helm, Azure, Security**, and o
 - [Explore Bangladesh](https://github.com/mahinops/Explore-Bangladesh-Tour_Project)
 
   A dynamic django based application that contains information about various tourist places in Bangladesh. 
+---
 
-## Tutorials
-<div style="display: flex;">
-  <!-- First Video -->
-  <div style="flex: 50%; padding-right: 10px;">
-    <h3>GitHub Actions Tutorial in Bangla</h3>
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/RdtyPbjZg0A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+## Blog Post
 
-  <!-- Second Video -->
-  <div style="flex: 50%; padding-left: 10px;">
-    <h3>Build & Push Docker Images Using GitHub Composite Actions</h3>
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/caoCIuuNtOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
+- [DevOps-1: Dockerize your Golang Application with PostgreSQL database.- Medium](https://medium.com/@mokhlesurr031/devops-1-dockerize-you-golang-application-with-postgresql-database-7e5f50fa6701)
+- [DevOps-2: Dockerize your Golang Application with PostgreSQL database.- Medium](https://medium.com/@mokhlesurr031/devops-2-dockerize-you-golang-application-with-postgresql-database-2ab6338190b8)
+- [DevOps-3: Dockerize you Golang Application with PostgreSQL database.- Medium](https://medium.com/@mokhlesurr031/devops-3-dockerize-you-golang-application-with-postgresql-database-7c4ccf97cb92)
+- [Personal Blog](https://mahinops.github.io/)
 
+---
+## Video Tutorials
 
+- [GitHub Actions Tutorial in Bangla](https://www.youtube.com/watch?v=RdtyPbjZg0A)
+- [How to Build & Push Docker Images Using GitHub Composite Actions in Bangla](https://www.youtube.com/watch?v=caoCIuuNtOs)
+---
 
-
-
+- [Odoo Development Tutorial in Bangla -1](https://www.youtube.com/watch?v=l_hzAFAQHyc)
+- [Odoo Development Tutorial in Bangla -2](https://www.youtube.com/watch?v=-hCjosF1wkE)
+- [Odoo Development Tutorial in Bangla -3](https://www.youtube.com/watch?v=0VFPjrVcEMY)
+- [Odoo Development Tutorial in Bangla -4](https://www.youtube.com/watch?v=xkEgtS8jrjQ)
+- [Odoo Development Tutorial in Bangla -5](https://www.youtube.com/watch?v=0jBBw49qikA)
+- [Odoo Development Tutorial in Bangla -6](https://www.youtube.com/watch?v=Q40Qx90LtR0)
+- [Odoo Development Tutorial in Bangla -7](https://www.youtube.com/watch?v=cr9cvDc9qVc)
+---
+- [Learn Python Tutorial; Class-1](https://www.youtube.com/watch?v=C0Yq5t64_Xg)
+- [Learn Python Tutorial; Class-2](https://www.youtube.com/watch?v=1QMKU3sdseE)
+- [Learn Python Tutorial; Class-3](https://www.youtube.com/watch?v=wihyEPFywG8)
+- [Learn Python Tutorial; Class-4](https://www.youtube.com/watch?v=VAO4f1-FFu0)
+- [Learn Python Tutorial; Class-5](https://www.youtube.com/watch?v=78R8fgyAZH0)
 
 ---
 
