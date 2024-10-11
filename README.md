@@ -10,6 +10,48 @@ Now proficient in **Docker, Kubernetes, GCP, AWS, Helm, Azure, Security**, and o
 **#PlatformEngineer #DevOps #SRE #Backend** 🚀
 
 ---
+## Projects
+- [SecretCLI](https://github.com/mahinops/secretcli)
+
+  Secret CLI is a command-line tool designed for securely managing secrets and sensitive information. It provides a simple and efficient interface for creating, storing, and retrieving secrets in a secure manner.
+
+- [SecretCLI Web](https://github.com/mahinops/secretcli-web) (Ongoing)
+
+  Secret CLI Web is the web version of SecretCLI which will be directly integrated to secretCLI.
+  
+- [Github Manual Release](https://github.com/mahinops/github-manual-release)
+
+  A GitHub Action to create a new Git tag, generate release notes, and create a GitHub release.
+
+- [RBAC in Github Action](https://github.com/mahinops/github-action-by-permission)
+
+  RBAC (Role-Based Access Control) in GitHub Actions provides a mechanism to control who can trigger specific workflows. By using a permissions.yml file, you can define the GitHub usernames that are authorized to manually trigger particular pipelines. This setup ensures that only users with explicit permission can execute these workflows, offering enhanced security and strict access control within your CI/CD processes. 
+
+- [Explore Bangladesh](https://github.com/mahinops/Explore-Bangladesh-Tour_Project)
+
+  A dynamic django based application that contains information about various tourist places in Bangladesh. 
+
+## Tutorials
+<div style="display: flex;">
+  <!-- First Video -->
+  <div style="flex: 50%; padding-right: 10px;">
+    <h3>GitHub Actions Tutorial in Bangla</h3>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/RdtyPbjZg0A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <!-- Second Video -->
+  <div style="flex: 50%; padding-left: 10px;">
+    <h3>Build & Push Docker Images Using GitHub Composite Actions</h3>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/caoCIuuNtOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+
+
+
+
+
+
+---
 
 ### ✨ Let’s connect on this exciting journey!
 <div id="badges">
